@@ -61,4 +61,4 @@ exchangeRate <- exchangeRate %>%
   select(-year)                                          # Remove the temporary year column
 glimpse(exchangeRate$PERIOD)
 
-#thanks
+#thank you
