@@ -68,5 +68,3 @@ glimpse(survey)
 survey <- survey %>%
   mutate(Timestamp = mdy_hms(Timestamp, tz = "Asia/Taipei"))
 glimpse(survey) 
-
-#tz
