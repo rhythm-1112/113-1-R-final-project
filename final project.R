@@ -8,5 +8,3 @@ OpenData <- OpenData %>%
 
 
 glimpse(OpenData)
-summary(OpenData)
-glimpse(OpenData)
