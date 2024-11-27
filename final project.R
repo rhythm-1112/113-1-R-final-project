@@ -13,4 +13,3 @@ ggplot(
   data = OpenData,
   mapping = aes(x = population_thousands, y = labor_force_thousands)
 )
-hallo
